@@ -1,0 +1,10 @@
+D:\Visual Studio Projects\PhotosViewer\PhotosViewer\obj\Debug\PhotosViewer.csprojAssemblyReference.cache
+D:\Visual Studio Projects\PhotosViewer\PhotosViewer\obj\Debug\PhotosViewer.Form1.resources
+D:\Visual Studio Projects\PhotosViewer\PhotosViewer\obj\Debug\PhotosViewer.Properties.Resources.resources
+D:\Visual Studio Projects\PhotosViewer\PhotosViewer\obj\Debug\PhotosViewer.csproj.GenerateResource.cache
+D:\Visual Studio Projects\PhotosViewer\PhotosViewer\obj\Debug\PhotosViewer.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\PhotosViewer\PhotosViewer\bin\Debug\PhotosViewer.exe.config
+D:\Visual Studio Projects\PhotosViewer\PhotosViewer\bin\Debug\PhotosViewer.exe
+D:\Visual Studio Projects\PhotosViewer\PhotosViewer\bin\Debug\PhotosViewer.pdb
+D:\Visual Studio Projects\PhotosViewer\PhotosViewer\obj\Debug\PhotosViewer.exe
+D:\Visual Studio Projects\PhotosViewer\PhotosViewer\obj\Debug\PhotosViewer.pdb
